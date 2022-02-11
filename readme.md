@@ -10,3 +10,4 @@ Cet exercice nous a permis d'introduire la structure d'un thème Wordpress. Voic
 
 
 Pour modifier readme.md
+Voici le lien du github : 

@@ -11,11 +11,15 @@
     transform: rotate(90deg);
 }
 
-.menu-principal-container {
+.menu-simple-container {
     display: none;
+
+    @media screen and (min-width : $largeur__media--tablette){
+    display: block;
+    }
 }
 
-#chk-burger:checked ~ .menu-principal-container {
+#chk-burger:checked ~ .menu-simple-container {
     display: block;
 
 }
